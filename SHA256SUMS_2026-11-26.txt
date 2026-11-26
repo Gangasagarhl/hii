@@ -1,0 +1,2 @@
+25019a737d74a1344932b167415848e655217b147b4f49caca41ff244dee4029  ScoreSwap_internal_draft_2026-11-26.pdf
+92d55bb7ebd44caea0ec2bffc29b3e4570c0c825be6c2ce8c4053fad43387422  scoreswap_kaggle_kit_2026-11-26.zip
